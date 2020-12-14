@@ -1,0 +1,13 @@
+1c7215112cfcc36e1e4a5936665d17b9 *DESCRIPTION
+0eaa182f909045064e3a3126dca28ba3 *LICENSE
+724f2f9d67a3811309e9fb7515897bee *NAMESPACE
+e791b54f03ad771eca509968252a1bbc *R/acs.R
+42d9767b524fc74c96ed5b998f60285b *R/data.R
+8e43f33c94a22350c5d366a5e50b62ab *data/rwd.rda
+d7886209aa72523ce00773236f5eedb9 *man/get_candidate_covariates.Rd
+1c2c0571ff6dc70cec62c8c6bf2af46f *man/get_prioritised_covariates.Rd
+6d60d134003e7fb1ad64f8df3020f8e2 *man/get_recurrence_covariates.Rd
+138ec3793e1318c786de65457d85e7fd *man/get_relative_risk.Rd
+dd95cc5a47b249868bebd393952c4040 *man/rwd.Rd
+9796c80cf4b32410b2ce20d3f8e93a34 *tests/testthat.R
+b93fddd7fabe31c0caa14075eb499e52 *tests/testthat/test-run.R
